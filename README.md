@@ -1,4 +1,4 @@
-## Busca Rápida e Divertida de Seus Jogos Favoritos!
+## Busca Rápida e Divertida de Seus Jogos Favoritos! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
